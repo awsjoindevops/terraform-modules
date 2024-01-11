@@ -1,7 +1,8 @@
 TERRAFROM
 Below is the environment setup.
 
-Softwares Required:
+Softwares Required :
+
 
 VS Code
 Terraform
