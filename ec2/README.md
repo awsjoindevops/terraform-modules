@@ -1,6 +1,9 @@
 # EC2 - Module
 
 # INPUTS
+
+
+
 * ami (optional) : AMI ID is optional, default ami is ami-03265a0778a880afb which is centos from join Devops. 
 
 
